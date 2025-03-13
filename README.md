@@ -1,7 +1,11 @@
 # DATA ANALYST
 ### *✨Data-driven analyst skilled in SQL, Python, and visualization, turning complex data into actionable insights to drive business decisions.✨*
 
-📫 How to reach me: tranlinh41214@gmail.com  
+📫 How to reach me: 
+
+[![Alt Text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tranlinh41214@gmail.com)
+
+
 <a href="https://www.linkedin.com/in/linh-tran-dieu20003/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">
 </a>
